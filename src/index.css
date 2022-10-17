@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+li {
+   list-style: none;
+   margin-top: 0.5em;
+}
+
+input {
+  border: lightgray solid 1px;
+  border-radius: 6px;
+  padding: 0.6rem 0.9rem;
+  font-size: 1rem;
+}
